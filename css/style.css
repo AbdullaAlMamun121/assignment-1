@@ -86,9 +86,28 @@ p{
     width: 80%;
     margin: 0 auto;
     display: flex;
+    margin-bottom: 30px;
 }
 .myPlan-section .skill{
     padding: 20px;
     text-align: center;
     margin: 0 auto;
+}
+/* Plan section end */
+
+/* positive-mind section start */
+.positive-mind{
+    width: 60%;
+    background-image:linear-gradient(90deg,#005FAC 0%,rgba(0, 95, 172, 0) 100%), url('../images/watch.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0 auto;
+    height: 150px;
+    border-radius: 5px;
+    padding: 30px;
+}
+.positive-slogan {
+    width: 60%;
+    color: white;
+    margin-bottom: 10px;
 }
