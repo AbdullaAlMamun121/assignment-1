@@ -179,6 +179,7 @@ p{
     border-radius: 5px;
     padding: 30px;
     margin-bottom: 130px;
+
 }
 .positive-slogan {
     width: 60%;
@@ -225,6 +226,12 @@ p{
     margin: 10px 0;
     background-color: black;
     border: 0;
+}
+.footer-mail{
+    margin: 10px 0;
+}
+.footer-number{
+    margin: 10px 0; 
 }
 .btn-diff{
     background-color: #005FAC;
